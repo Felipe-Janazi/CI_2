@@ -53,5 +53,5 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: janazi1/go-ci/cd:v1
+        tags: janazi1/go-ci:v1
           
